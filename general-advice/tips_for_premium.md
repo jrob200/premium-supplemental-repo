@@ -18,7 +18,9 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 
 ---
 
-## Personal Suggestions From Long-term Learners
+## Personal Suggestions From Long-Term Learners
+
+The following learners are among those who have been with us the longest and made the most progress!
 
 ### John
 
@@ -28,6 +30,12 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 >2. Do not move forward until you are comfortable with the concepts introduced.  This will be an issue later when those inital lessons combine to build more advanced concepts.
 >3. Might be a time constraint for some, but I need practice often, every few days at the least, to keep the material fresh.  Even if it is just one practice problem on codewars or similar.
 >4. Do not hesitate to ask questions in Slack, of your mentor, etc.  Learning is rarely a solo journey.
+
+### Michael
+
+Michael is one of the more advanced learners with Premium, having been learning consistently for over a year and now working on interview practice.
+
+>What works for me is having a schedule for when I do things in the weekday mornings, which I make sure to use for light duty stuff to keep my continuity and stay in touch with my goals. I try to save the more in depth project work for the weekend. I have balanced and rebalanced things to make time for meeting up with friends and doing the things that keep me sane. I've learned that when I try to be hardcore, I burn out. But that's just what works for me, anyway.
 
 ### Greg
 
@@ -53,6 +61,12 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 >* Break big problems into many small ones. Still too big? Break it up again.
 >* Show yourself some grace in the difficult moments and realize you are learning something that is **insanely cool** and that will take some time/practice.
 
+### Natalia
+
+Natalia has already pushed beyond the level where many bootcamps take people and going deeper into advanced topics.
+
+>What helps me to continue learning is to keep a solid routine everyday of the week and not allow anything else to interrupt. I agree with @Christina to celebrate the small things no matter what! Things that don't work for me is putting off any bit of the material in the units. They are there for a purpose to continue your learning.
+
 ### Abdel
 
 [Abdel](https://github.com/AbdelkaderTk) is a doctor who has been building his business [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) as his Premium project since October 2019.  He shared the following:
@@ -60,8 +74,26 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 >Try to answer questions from otber people (in the Premium Slack, or even on Stack Overflow). It is possible to help others, even for beginners. It will help the person who asked, but you also learn much faster. The more problems you encounter, the more you learn. So if you tackle your own problems _and_ try to solve others', you'll learn much more.
 >If you try to summarize a lesson in your notes (without copying/pasting the material), you will quickly know if you actually understood what you just consumed. It takes more time up front, but you'll understand and remember better so you'll save time later.
 
+### Samantha
+
+Samantha has been juggling working in Premium alongside her full-time design job since September 2019.
+
+> i also agree that time management is a key factor to your success in this program. i started guns blazing and thought i could commit like 8 hours a day with my full-time job and soon found myself burnt out and only doing the bare minimum :sweat_smile: i've since pivoted and decided to commit at least an hour a day during the work week. i keep track of how much time i spent studying a day to keep myself accountable and to celebrate small successes at the end of the week when i see how much i've dedicated to studying. it's a marathon, not a sprint lol.
+> it's ok to feel like you don't know anything or like you're falling behind because you're here to learn! i've had to remind myself it's part of the process and no one expects me to know everything right off the bat.
+> i'm a visual learner so sometimes if a unit is too text heavy for me, i start feeling like it's a chore and become bored. when that's the case, i try to supplement my learning with something that has more visual elements (usually it involves googling sites that offer more visuals like css-tricks, flipping through jon duckett's book, or looking for YT videos to watch people code)
+> making use of the slack community also helps. i'm a bit shy/introverted most of the time, which is why i haven't been as present there, but i'm trying to be more active in the chats because i agree it does help with retention :stuck_out_tongue:
+
+### Rostyslav
+
+Rostyslav has been one of the most consistent learners in the whole program, completing a unit or more a week since October 2019.
+
+>1. Study every day, and as much as possible. If it seems to you that you don't have enough time today, still find 1 hour to code.
+>2. There are days, when you feel like you are fed up with coding, because to become a good developer is hard task (you are not learning how to deliver pizza or do some other simple job!), so be persistent: keep sitting in front of your computer. You will face these bugs, you will do these mistakes, and they will drive you nuts. Most people will naturally give up. But you will stay at all costs! And if you do that, if you embrace all the problems you face as great learning opportunities - you will become a great coder. Growth in life is only achieved by making yourself feel uncomfortable. 
+>3. Use time management. For example I use Pomodoro, which means 25 minutes work, 5 minutes rest (there is an app in the Apple store). And I write down the time I spend learning every day, so later I compare my present week time with the previous one, and plan my pace for the next week. Set yourself goal of weekly hours you gonna spend on coding and follow it.
+>4. Codecademy lessons are great! Use them in combination with books, blogs, videos. Ask your mentor for some extra which are not in the Units.
+
 ---
 
 ## Give and Get More Advice
 
-Slack is an invaluable tool in this program for this reason and so many more.  Peruse the main channels (#online-now, #feedback, #stand-up) for discussions and material that will help you to move forward.  If we spot some more gems of advice there, we'll add them here!
+Slack is an invaluable tool in this program for this reason and so many more.  Peruse the main channels (#online-now, #feedback, #stand-up) for discussions and material that will help you to move forward.  If we spot some more gems of advice there, we'll add them here!  You can also find the above learners and many more there to chat with.
