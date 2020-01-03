@@ -22,7 +22,7 @@ Before you start thinking about the sorts of projects you might want to build an
 Your portfolio is, first and foremost, a testament to your ability to build things, and at this stage, any project you complete will be a valuable learning experience. Any project that seems fun and interesting to you is one you’re more likely to complete, and that’s all the reason you need to get started.
 
 We’ve had members of the Premium community make a virtual ant farm, a Star Wars plot generator, and more. There may come a time fret about the technologies you use or how directly your projects map to a job function, but we promise that time is not now.
-* **Article:** 10 Web Developer Portfolio Tips(https://medium.com/@traversymedia/10-web-developer-portfolio-tips-384491d408a8)
+* **Article:** [10 Web Developer Portfolio Tips](https://medium.com/@traversymedia/10-web-developer-portfolio-tips-384491d408a8)
 * **Article:** [Portfolios: You’re Doing it Wrong](https://medium.com/@colecodes/portfolios-youre-doing-it-wrong-c8271cdd8d4e)
 * **Video:** [Get Hired: Portfolio Design](https://youtu.be/i_maWKR7Ivs) - this video has a game dev focus, but trust us its wisdom is almost certainly applicable to you too.
 
