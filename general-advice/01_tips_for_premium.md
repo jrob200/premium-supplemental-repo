@@ -24,7 +24,7 @@ The following learners are among those who have been with us the longest and mad
 
 ### John
 
-[John](https://github.com/jrob200) is an experienced Product Manager from one of the big five tech companies and a Premium learner since November 2019.  His advice is to:
+John is an experienced Product Manager from one of the big five tech companies and a Premium learner since November 2019.  His advice is to:
 
 >1. Stick to a schedule but be realistic about the time commitment.  Check the upcoming unit early in the week to estimate time commitment.  I have caught myself trying to complete something I thought was short at the last minute.
 >2. Do not move forward until you are comfortable with the concepts introduced.  This will be an issue later when those inital lessons combine to build more advanced concepts.
@@ -39,7 +39,7 @@ Michael is one of the more advanced learners with Premium, having been learning 
 
 ### Greg
 
-[Greg](https://github.com/gregrancourt) is a devops engineer who's learning full-stack engineering to build his business MVP idea.  He recommends:
+Greg is a devops engineer who's learning full-stack engineering to build his business MVP idea.  He recommends:
 
 >* Really devote some time up front to coming up with a project idea you have an emotional connection to. It’s a tough journey, but it’s even harder if you don’t care about the end goal.
 >* Along with that, one thing I wish I’d done differently up front was spend more time describing my project goals with my mentor and reshaped the experience to meet those goals. It would have reduced some rework and given me more depth in the areas I needed to learn most.
@@ -48,7 +48,7 @@ Michael is one of the more advanced learners with Premium, having been learning 
 
 ### Christina
 
-[Christina] is learning full-time to switch from a medical career to become a programmer, clocking in hundreds of hours since October 2019.  She suggests:
+Christina is learning full-time to switch from a medical career to become a programmer, clocking in hundreds of hours since October 2019.  She suggests:
 
 >When approaching the material I like to keep in mind a story someone shared with me (found [here](http://www.ashidakim.com/zenkoans/1acupoftea.html)).
 >
@@ -69,7 +69,7 @@ Natalia has already pushed beyond the level where many bootcamps take people and
 
 ### Abdel
 
-[Abdel](https://github.com/AbdelkaderTk) is a doctor who has been building his business [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) as his Premium project since October 2019.  He shared the following:
+Abdel is a doctor who has been building his business [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) as his Premium project since October 2019.  He shared the following:
 
 >Try to answer questions from otber people (in the Premium Slack, or even on Stack Overflow). It is possible to help others, even for beginners. It will help the person who asked, but you also learn much faster. The more problems you encounter, the more you learn. So if you tackle your own problems _and_ try to solve others', you'll learn much more.
 >If you try to summarize a lesson in your notes (without copying/pasting the material), you will quickly know if you actually understood what you just consumed. It takes more time up front, but you'll understand and remember better so you'll save time later.
