@@ -98,8 +98,8 @@ Rostyslav has been one of the most consistent learners in the whole program, com
 Rebecca is a QA Engineer and Project Manager, and she happens to be the very first Premium learner.
 
 >In general - set things up to make it hard for you to fail.
->1. You can reframe your project into something silly. I felt a lot of pressure and kept getting stuck in the rabbit hole of perfectionism because I wanted it to look great immediately. If you reframe it to something silly, like O'Duffy's fabulous suggestion of a "website for cat psychologist", it can take the edge of and make it easier to feel like you succeed with your units.
->2. Book several times, pref. with a regular interval, with your  mentor, to make it more difficult for yourself to just not book a time
+>1. You can reframe your project into something silly. I felt a lot of pressure and kept getting stuck in the rabbit hole of perfectionism because I wanted it to look great immediately. If you reframe it to something silly, like O'Duffy's fabulous suggestion of a "website for cat psychologist", it can take the edge off and make it easier to feel like you succeed with your units.
+>2. Book several times, preferably with a regular interval, with your  mentor, to make it more difficult for yourself to just not book a time.
 >3. Don't stare yourself blind on that you have to complete the next unit for your next mentor meeting. End your mentor meetings with discussing "what should you do until next session", and preferably keep it to something so small that you feel pumped and you most definitely will complete it. If you do more, then that's awesome!
 >4. Code/work on your project often, but also define coding to be something very easy. If it's super lightly defined, it's easier to succeed and keep your spirits up. For example, I have set the bar at "doing one review and practice unit in the Codecademy Go app" as my lower limit for coding each day. Similarly, trying to set an every day meditation habit, I've set succeeding to "opening the meditation app while in a calm setting". Often I do more, but if I can't manage more, at least it's easy not to break my streak!
 
