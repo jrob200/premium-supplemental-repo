@@ -15,6 +15,7 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 * Agree with your mentor about a best time to meet each week (e.g. Saturdays at 2pm EST) and then consistently book that slot well in advance. This makes it easier for both parties, but also adds vital structure and accountability.
 * A lot of introductory material goes over concepts that have already been covered in the Codecademy courses – if you've already covered something, you can probably skip it, but check with your mentor to be sure.
 * Take part in weekly standup on Slack to get used to Agile development rituals, to add more structure & accountability to your learning, and for more of a "classroom" experience.
+* Don't save your questions for your 1-on-1s because your mentor conversations are far more valuable with things like code review and pair-programming than Q&A. Always ask in Slack first.
 
 ---
 
@@ -91,6 +92,16 @@ Rostyslav has been one of the most consistent learners in the whole program, com
 >2. There are days, when you feel like you are fed up with coding, because to become a good developer is hard task (you are not learning how to deliver pizza or do some other simple job!), so be persistent: keep sitting in front of your computer. You will face these bugs, you will do these mistakes, and they will drive you nuts. Most people will naturally give up. But you will stay at all costs! And if you do that, if you embrace all the problems you face as great learning opportunities - you will become a great coder. Growth in life is only achieved by making yourself feel uncomfortable. 
 >3. Use time management. For example I use Pomodoro, which means 25 minutes work, 5 minutes rest (there is an app in the Apple store). And I write down the time I spend learning every day, so later I compare my present week time with the previous one, and plan my pace for the next week. Set yourself goal of weekly hours you gonna spend on coding and follow it.
 >4. Codecademy lessons are great! Use them in combination with books, blogs, videos. Ask your mentor for some extra which are not in the Units.
+
+### Rebecca
+
+Rebecca is a QA Engineer and Project Manager, and she happens to be the very first Premium learner.
+
+>In general - set things up to make it hard for you to fail.
+>1. You can reframe your project into something silly. I felt a lot of pressure and kept getting stuck in the rabbit hole of perfectionism because I wanted it to look great immediately. If you reframe it to something silly, like O'Duffy's fabulous suggestion of a "website for cat psychologist", it can take the edge of and make it easier to feel like you succeed with your units.
+>2. Book several times, pref. with a regular interval, with your  mentor, to make it more difficult for yourself to just not book a time
+>3. Don't stare yourself blind on that you have to complete the next unit for your next mentor meeting. End your mentor meetings with discussing "what should you do until next session", and preferably keep it to something so small that you feel pumped and you most definitely will complete it. If you do more, then that's awesome!
+>4. Code/work on your project often, but also define coding to be something very easy. If it's super lightly defined, it's easier to succeed and keep your spirits up. For example, I have set the bar at "doing one review and practice unit in the Codecademy Go app" as my lower limit for coding each day. Similarly, trying to set an every day meditation habit, I've set succeeding to "opening the meditation app while in a calm setting". Often I do more, but if I can't manage more, at least it's easy not to break my streak!
 
 ---
 
