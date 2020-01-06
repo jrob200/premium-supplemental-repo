@@ -5,4 +5,4 @@ This extra repo is designed to be consumed at your leisure, perhaps when on-the-
 
 Happy coding and happy learning!  Let's turn it up.
 
-<img src="https://i.imgur.com/R7ncGUI.png" width="500"/>
+<img src="https://i.imgur.com/R7ncGUI.png" width="100"/>
