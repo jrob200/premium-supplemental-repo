@@ -19,7 +19,7 @@ Keeping that motivation through the ups and downs of the learning process is a m
 Spoiler alert: the going gets tough.
 
 Here are some of the more persistent challenges you can expect to face during your learning process and throughout your coding journey, plus actionable steps you can take to overcome them:
-* **Article:** [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+* **Article:** [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) - this is aimed at people changing careers, but applicable for all.
 * **Article:** [Why is Coding So Hard? | Part 2](https://news.codecademy.com/why-is-coding-so-hard-part-2/)
 
 ## Building good habits
