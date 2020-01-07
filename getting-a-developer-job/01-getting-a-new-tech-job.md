@@ -16,7 +16,7 @@ For a more detailed take on this question, watch a [quick video](https://youtu.b
 
 ## What Bootcamps Do (and Don't) Teach
 
-Many of us here at Codecademy are bootcamp graduates, others worked at bootcamp programs.  As of Q1 2020, 50% of the Premium team itself comes from one of those two backgrounds, so we are very familiar with them!  Here are two big points we want you to take away.
+Many of us here at Codecademy are bootcamp graduates, others worked at bootcamp programs.  As of Q1 2020, 50% of the Premium team itself comes from one of those two backgrounds, so we are very familiar with them!  There are a few big points we want you to know early on enough so that you 
 
 ### Bootcamps Don't Get You Truly "Job Ready"
 
@@ -27,11 +27,13 @@ Getting a job result doesn't always mean getting a full-time tech job as part of
 Traditional time-limited bootcamps need to crank out as many graduates as possible, as fast as they can, with the minimum they need to impress an employer.  Bootcamps find it very difficult to do two things within their time constraints:
 
 1. How to write *high quality code*, not just to build things that work or to have memorized syntax.  This is something best unearthed by _code review_ and _consistent feedback_.  You can get this from your mentor and your peers.
-2. How to *collaborate with code*.  Programming, data science, game development... no matter the domain, coding is seldom done solo.  You'll need to learn not only how to work well with other coders (soft skills!) but the processes and nuances involved in being part of a team.  That means code bases, legacy code, team projects, sprints, pointing, pair-programming, and many more pieces of jargon that you don't need to know yet but will.  You can get some of this with your mentor but most of this will come from working with your peers.
+2. How to *collaborate with code*.  Programming, data science, game development... no matter the domain, coding is seldom done solo.  You'll need to learn not only how to work well with other coders (soft skills!) but the processes and nuances involved in being part of a team.  That means code bases, legacy code, team projects, sprints, pointing, pair-programming, and many more pieces of jargon that you don't need to know yet but will.  You can get some of this with your mentor but most of this will come from working with your peers.  This is why it's vital to play an active part in the Slack community, e.g. to not only ask answers but answer them, to work on a group project, in order to build these skills.
 
 Depending on the post-graduate resources offered in a bootcamp, graduates will often be relatively unpracticed at passing developer job interviews.
 
-It's not just bootcamps - these are things that self-taught learners are either unaware of or ignore in favor of spending every spare moment learning more syntax or building bigger portfolios.  Even freelancers will often need to collaborate on projects or iterate on the work of others.  It is indeed far rarer to build anything "from scratch."
+It's not just bootcamps - these are things that self-taught learners are either unaware of or ignore in favor of spending every spare moment learning more syntax or building bigger portfolios.  Even freelancers will often need to collaborate on projects or iterate on the work of others - it is indeed relatively rare to build anything truly "from scratch" as a paid professional.  Now that you know this, don't forget or ignore it!
+
+If you stick with Premium, we'll cover the parts most bootcamps don't teach. We'll review your code to get it production-level, help you to practice code collaboration and even team projects with the Premium community, and give you interview practice.
 
 ## We're Here to Help
 
