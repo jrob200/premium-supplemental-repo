@@ -25,10 +25,12 @@ Getting a job result doesn't always mean getting a full-time developer job as pa
 Traditional time-limited bootcamps need to crank out as many graduates as possible, as fast as they can, with the minimum they need to impress an employer.  Bootcamps find it very difficult to do two things within their time constraints:
 
 1. How to write *high quality code*, not just to build things that work or to have memorized syntax.  This is something best unearthed by _code review_ and _consistent feedback_.  You can get this from your mentor and your peers.
-2. How to *collaborate with code*.  Coding is seldom done solo.  You'll need to learn not only how to work well with other coders (soft skills!) but the processes and nuances involved in being part of a team.  That means code bases, legacy code, team projects, sprints, pointing pair-programming, and many more pieces of jargon that you don't need to know yet but will. 
+2. How to *collaborate with code*.  Programming, data science, game development... no matter the domain, coding is seldom done solo.  You'll need to learn not only how to work well with other coders (soft skills!) but the processes and nuances involved in being part of a team.  That means code bases, legacy code, team projects, sprints, pointing pair-programming, and many more pieces of jargon that you don't need to know yet but will. 
 
 Depending on the post-graduate resources offered in a bootcamp, graduates will often be relatively unpracticed at passing developer job interviews.
 
+It's not just bootcamps - these are things that self-taught learners are either unaware of or ignore in favor of spending every spare moment learning more syntax or building bigger portfolios.  Even freelancers will often need to collaborate on projects or iterate on the work of others.  It is indeed far rarer to build anything "from scratch."
+
 ## We're Here to Help
 
-Throughout this series and with this program, we'll help you not only with the things bootcamps teach you, but the things they don't.  We've got your back.
+Throughout this series and with this program, we'll help you not only with the things bootcamps teach you, but the things they don't.  We've got your back.  Stay tuned, work hard, and trust your mentor.
