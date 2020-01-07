@@ -5,7 +5,7 @@ Since the day you started learning with Codecademy, you’ve probably noticed th
 That’s because, like any other journey, there will be unexpected turns and changes of pace, and the person you are at the end of it will be very different than who you were when you started. 
 
 ## This is a _long_ journey
-It’s reasonable for your total focus at this stage to be on landing that first job, launching your MVP idea, or whatever other goal you are aiming for. However, gaining development skills and coding projects make for a long and winding road. Taken from someone who’s been in your shoes:
+It’s reasonable for your total focus at this stage to be on landing that first job, launching your MVP idea, or whatever other goal you are aiming for. However, gaining development skills and coding projects make for a long and winding road.
 Taken from someone who’s been in your shoes:
 * **Video:** [What I Wish I Knew When I First Started Coding](https://www.youtube.com/watch?v=LwxFVXmVPDU)
 
