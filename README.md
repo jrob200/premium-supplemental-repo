@@ -6,6 +6,8 @@ This extra repo is designed to be consumed at your leisure, perhaps when on-the-
 
 *General Advice* was written for every Premium participant and should be read first, while the other subjects may or may not be applicable to you depending on your goals.
 
+Please note that this repo is **still under development**.  We always welcome your requests and input, just post in #feedback in Slack.
+
 Happy coding and happy learning!  Let's do this.
 
 <img src="https://i.imgur.com/R7ncGUI.png" width="150"/>
