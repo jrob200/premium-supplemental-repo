@@ -1,6 +1,6 @@
 # Building Your Portfolio
 
-Without work experience as a developer, a solid portfolio of projects you’ve built is the most effective way to showcase your skills and prove what you’re capable of to a potential employer.
+Without work experience as a developer, a solid portfolio of projects you’ve built is the most effective way to showcase your skills and prove what you’re capable of to a potential employer.  In Codecademy Premium, you'll start working on your portfolio items from day one of the program, so we want you to know a bit more about why first.
 
 Below we’re sharing resources on what should go on your portfolio website, how to build one, what employers are looking for when you’ve never had a job as a developer, and more. Note that some resources below may be aimed toward specific career tracks like web or game development, but we chose them because we think they are useful for all of you. But first, a big-picture overview.
 
