@@ -1,6 +1,6 @@
 # About this Guide
 
-In this series of articles, we'll cover . These resources are designed to be consumed alongside your technical journey with Premium. You can complete them at any pace you'd like, but we'd strongly suggest you finish them in your first two months. After all, you should know the context and best practices before you get too deep.
+In this series of articles, we'll cover some essential material to help you to be a successful student with Premium. These resources are designed to be consumed alongside your technical journey with your personal repo and project. You can complete them at any pace you'd like, but we'd strongly suggest you finish them in your first two months. After all, you should know the context and best practices before you get too deep.
 
 ## The Resources & Recommendations
 
