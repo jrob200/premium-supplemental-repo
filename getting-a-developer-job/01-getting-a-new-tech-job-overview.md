@@ -16,7 +16,7 @@ For a more detailed take on this question, watch a [quick video](https://youtu.b
 
 ## What Bootcamps Do (and Don't) Teach
 
-Many of us here at Codecademy are bootcamp graduates, others worked at bootcamp programs.  As of Q1 2020, 50% of the Premium team itself comes from one of those two backgrounds, so we are very familiar with them!  There are a few big points we want you to know early on enough so that you 
+Many of us here at Codecademy are bootcamp graduates, others worked at bootcamp programs.  As of Q1 2020, 50% of the Premium team itself comes from one of those two backgrounds, so we are very familiar with them!  There are a few big points we want you to know early on enough so that you know what extra skills to develop to put you ahead of the curve. 
 
 ### Bootcamps Don't Get You Truly "Job Ready"
 
