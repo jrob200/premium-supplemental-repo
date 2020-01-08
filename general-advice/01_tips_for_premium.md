@@ -11,6 +11,7 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 * Developers don't need to remember everything they come across!  Instead, internalize the _concepts_, get better at asking (and answering) questions, and finding the info you need as you go.  Work on building the right mentality rather than rote memorization - this [six minute video](https://youtu.be/rWMuEIcdJP4) from one of our mentors will explain the "developer mindset."
 * Don't go through an entire unit of theory before starting the associated practical assignment.  That method is more time-consuming as you'll keep having to go back to the unit for things you've forgotten.  Better to do part of the unit and part of the assignment, in tandem.  Familiarize yourself with the next steps with your project before digging in to the theoretical learning; once you feel confident enough in some theory to apply it to your project, do so.
 * Take your own notes.  Yes, there are downloadable notes out there, but the act of writing the notes itself helps you to remember them, especially if you're putting them all in your own words.  [Google Docs](https://www.google.com/docs/about/) and [Boostnote](https://boostnote.io/) are two popular free methods, but also consider taking physical notes with a pen and assembling an organized binder of notes, as the tactile experience can also aid recall.
+* If you try to summarize a lesson in your notes (without copying/pasting the material), you will quickly know if you actually understood what you just consumed. It takes more time up front, but you'll understand and remember better so you'll save time later.
 * If you don't already have a dream project, don't agonize about getting one.  Just get started early with something simple like a personal portfolio site, and take your time to think of a more robust project to tackle later.
 * Agree with your mentor about a best time to meet each week (e.g. Saturdays at 2pm EST) and then consistently book that slot well in advance. This makes it easier for both parties, but also adds vital structure and accountability.
 * A lot of introductory material goes over concepts that have already been covered in the Codecademy courses – if you've already covered something, you can probably skip it, but check with your mentor to be sure.  After all - this is personal training, not one fixed class.
@@ -22,21 +23,6 @@ Here are some points that had broad consensus from mentors and / or mentees in t
 ## Personal Suggestions From Long-Term Learners
 
 The following learners are among those who have been with us the longest and made the most progress!
-
-### John
-
-John is an experienced Product Manager from one of the big five tech companies and a Premium learner since November 2019.  His advice is to:
-
->1. Stick to a schedule but be realistic about the time commitment.  Check the upcoming unit early in the week to estimate time commitment.  I have caught myself trying to complete something I thought was short at the last minute.
->2. Do not move forward until you are comfortable with the concepts introduced.  This will be an issue later when those inital lessons combine to build more advanced concepts.
->3. Might be a time constraint for some, but I need practice often, every few days at the least, to keep the material fresh.  Even if it is just one practice problem on codewars or similar.
->4. Do not hesitate to ask questions in Slack, of your mentor, etc.  Learning is rarely a solo journey.
-
-### Michael
-
-Michael is one of the more advanced learners with Premium, having been learning consistently for over a year and now working on interview practice.
-
->What works for me is having a schedule for when I do things in the weekday mornings, which I make sure to use for light duty stuff to keep my continuity and stay in touch with my goals. I try to save the more in depth project work for the weekend. I have balanced and rebalanced things to make time for meeting up with friends and doing the things that keep me sane. I've learned that when I try to be hardcore, I burn out. But that's just what works for me, anyway.
 
 ### Greg
 
@@ -61,28 +47,6 @@ Christina is learning full-time to switch from a medical career to become a prog
 >* Celebrate _all_ victories, no matter how small (there's nothing like a home office victory lap :laughing:)
 >* Break big problems into many small ones. Still too big? Break it up again.
 >* Show yourself some grace in the difficult moments and realize you are learning something that is **insanely cool** and that will take some time/practice.
-
-### Natalia
-
-Natalia has already pushed beyond the level where many bootcamps take people and going deeper into advanced topics.
-
->What helps me to continue learning is to keep a solid routine everyday of the week and not allow anything else to interrupt. I agree with @Christina to celebrate the small things no matter what! Things that don't work for me is putting off any bit of the material in the units. They are there for a purpose to continue your learning.
-
-### Abdel
-
-Abdel is a doctor who has been building his business [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) as his Premium project since October 2019.  He shared the following:
-
->Try to answer questions from otber people (in the Premium Slack, or even on Stack Overflow). It is possible to help others, even for beginners. It will help the person who asked, but you also learn much faster. The more problems you encounter, the more you learn. So if you tackle your own problems _and_ try to solve others', you'll learn much more.
->If you try to summarize a lesson in your notes (without copying/pasting the material), you will quickly know if you actually understood what you just consumed. It takes more time up front, but you'll understand and remember better so you'll save time later.
-
-### Samantha
-
-Samantha has been juggling working in Premium alongside her full-time design job since September 2019.
-
->* i also agree that time management is a key factor to your success in this program. i started guns blazing and thought i could commit like 8 hours a day with my full-time job and soon found myself burnt out and only doing the bare minimum :sweat_smile: i've since pivoted and decided to commit at least an hour a day during the work week. i keep track of how much time i spent studying a day to keep myself accountable and to celebrate small successes at the end of the week when i see how much i've dedicated to studying. it's a marathon, not a sprint lol.
->* it's ok to feel like you don't know anything or like you're falling behind because you're here to learn! i've had to remind myself it's part of the process and no one expects me to know everything right off the bat.
->* i'm a visual learner so sometimes if a unit is too text heavy for me, i start feeling like it's a chore and become bored. when that's the case, i try to supplement my learning with something that has more visual elements (usually it involves googling sites that offer more visuals like css-tricks, flipping through jon duckett's book, or looking for YT videos to watch people code)
->* making use of the slack community also helps. i'm a bit shy/introverted most of the time, which is why i haven't been as present there, but i'm trying to be more active in the chats because i agree it does help with retention :stuck_out_tongue:
 
 ### Rostyslav
 
