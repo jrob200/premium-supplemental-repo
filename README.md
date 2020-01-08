@@ -2,7 +2,7 @@
 
 # Supplementary Resource Repo
 
-This extra repo is designed to be consumed at your leisure, perhaps when on-the-go or needing a break from VS Code, in parallel with your technical learning through Codecademy Premium.  In that way, it will provide some contextual and augmenting knowledge to help you to reach your objective.
+This extra repo is designed to be consumed at your leisure, perhaps when on-the-go or needing a break from VS Code, in parallel with your technical learning through Codecademy Premium.
 
 Please note that this repo is **still under development**.  We always welcome your requests and input, just post in #feedback in Slack.
 
