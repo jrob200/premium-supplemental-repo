@@ -1,4 +1,4 @@
-# How to Build and Launch Your Minimum Viable Product  
+# A Practical Guide to Launching Your MVP - Part 1
 
 Welcome! This is a new series on how to build and launch a Minimum Viable Product (or MVP for short). In this series, I will cover how you can develop your MVP by walking you through each stage of the process and along the way I will breakdown terminology and share stories from founders who have done it. 
 
