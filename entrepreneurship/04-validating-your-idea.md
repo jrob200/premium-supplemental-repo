@@ -1,6 +1,6 @@
 # The Path to Launching Your MVP: Validating Your Idea
 
-As you’ve learned, a Minimum Viable Product (MVP) allows you to know whether what you’ve built is something people want, can be used easily and solves the users problem. When first developing a product idea it can often be confusing as to where to start. So, where do you begin? Before you build your MVP, take the necessary steps to _validate your idea_. You may be absolutely stoked to just focus on coding and making your idea a reality, but before you get too deep into the weeds it's vital to distill your plan and confirm that you're on the right track.  Start these steps early and complete them _alongside_ your coding theory so that when in later steps you need a demo product to show, you know what you need to build it.
+As you’ve learned, a Minimum Viable Product (MVP) allows you to know whether what you’ve built is something people want, can be used easily and solves the users problem. When first developing a product idea it can often be confusing as to where to start. So, where do you begin? Before you build your MVP, take the necessary steps to _validate your idea_. You may be absolutely stoked to just focus on coding and making your idea a reality, but before you get too deep into the weeds it's vital to distill your plan and confirm that you're on the right track.  That's where truly understanding your users comes in.
 
 ### Identifying Your Problem Set
 
@@ -58,7 +58,7 @@ With your idea now validated, you can start to work on building out your product
 
 The following will help you to get a bit deeper with these topics and help you put it all into practice.
 
-* _Running Lean_ by Ash Maurya.  The free [45 page excerpt](https://leanstack.com/Running_Lean_Excerpt.pdf) is enough to get you started, but strongly consider buying the book itself and using it as a manual.
+* _Running Lean_ by Ash Maurya.  The free [45 page excerpt](https://leanstack.com/Running_Lean_Excerpt.pdf) is enough to get you started, but strongly consider buying the book itself and using it as a guide.
  * An important tool here is using the lean canvas, which you can create and share on [Canvizer](https://canvanizer.com/new/lean-canvas) for free.
 * Techstars' trilogy of videos on running effective customer interviews are full of info.  Learn [who to interview](https://www.youtube.com/watch?v=m0kiZocBbO8), [what to ask them](https://www.youtube.com/watch?v=OTkP2JDeGWM), and how to [interpret the results](https://www.youtube.com/watch?v=sz3OA4B6hp8). The host of this video series has [more guidance](https://customerdevlabs.com/2013/11/05/how-i-interview-customers/) on this topic and even an interview script generator, but in my experience it's better to consider the auto-script as an overly long first draft rather than something to rigidly follow.
  * Ash Maurya has a good [article](https://blog.leanstack.com/the-updated-problem-interview-script-and-a-new-canvas-1e43ff267a5d) for writing your interview script _and_ using the customer forces canvas, in an update to his book.
