@@ -1,4 +1,4 @@
-# The Path to Launching Your MVP: Validate Your Idea
+# The Path to Launching Your MVP: Validating Your Idea
 
 As you’ve learned, a Minimum Viable Product (MVP) allows you to know whether what you’ve built is something people want, can be used easily and solves the users problem. When first developing a product idea it can often be confusing as to where to start. So, where do you begin? Before you build your MVP, take the necessary steps to _validate your idea_. You may be absolutely stoked to just focus on coding and making your idea a reality, but before you get too deep into the weeds it's vital to distill your plan and confirm that you're on the right track.  Start these steps early and complete them _alongside_ your coding theory so that when in later steps you need a demo product to show, you know what you need to build it.
 
