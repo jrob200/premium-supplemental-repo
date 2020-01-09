@@ -32,6 +32,7 @@ Greg is a devops engineer who's learning full-stack engineering to build his bus
 >* Along with that, one thing I wish I’d done differently up front was spend more time describing my project goals with my mentor and reshaped the experience to meet those goals. It would have reduced some rework and given me more depth in the areas I needed to learn most.
 >* Set a habit, whether it’s a certain time of day or certain day of week, to do the majority of your work. Having it scheduled makes it easier to stick to.
 >* Slack it up - meet people and get to know them and their projects. It’s a lot more fun to share this experience with other people.
+>* At first, one unit a week seemed like an appropriate pace, but I've learned to let that expectation go. It's less of a scheduled path than a set of structured resources. Took me too long for that to click!  The time I might spend focusing on a redesign of my app or adding features, rather than going to the next unit right away, is often a good thing.
 
 ### Christina
 
@@ -45,6 +46,7 @@ Christina is learning full-time to switch from a medical career to become a prog
 >And finally,
 >* Don’t close your mind to one way of doing things, stay open to the advice others give.
 >* Celebrate _all_ victories, no matter how small (there's nothing like a home office victory lap :laughing:)
+>* Some weeks I focus almost exclusively on my project but then once I hit a wall of 'yep, no idea how to do this next bit' I dive back into the units.  At first I was thinking 1 or more units a week was what I needed to do to get where I want to go but the more time I am here the more I realize the whole process is way more fluid than I anticipated.  I realized that Premium is less of a scheduled path than a set of structured resources, and my mentor has been very helpful in directing that process.
 >* Break big problems into many small ones. Still too big? Break it up again.
 >* Show yourself some grace in the difficult moments and realize you are learning something that is **insanely cool** and that will take some time/practice.
 
@@ -62,9 +64,9 @@ Rostyslav has been one of the most consistent learners in the whole program, com
 Rebecca is a QA Engineer and Project Manager, and she happens to be the very first Premium learner.
 
 >In general - set things up to make it hard for you to fail.
->1. You can reframe your project into something silly. I felt a lot of pressure and kept getting stuck in the rabbit hole of perfectionism because I wanted it to look great immediately. If you reframe it to something silly, like O'Duffy's fabulous suggestion of a "website for cat psychologist", it can take the edge off and make it easier to feel like you succeed with your units.
+>1. You can reframe your project into something silly. I felt a lot of pressure and kept getting stuck in the rabbit hole of perfectionism because I wanted it to look great immediately. If you reframe it to something silly, like O'Duffy's fabulous suggestion of a "website for a cat psychologist", it can take the edge off and make it easier to feel like you succeed with your units.
 >2. Book several times, preferably with a regular interval, with your  mentor, to make it more difficult for yourself to just not book a time.
->3. Don't stare yourself blind on that you have to complete the next unit for your next mentor meeting. End your mentor meetings with discussing "what should you do until next session", and preferably keep it to something so small that you feel pumped and you most definitely will complete it. If you do more, then that's awesome!
+>3. Don't beat yourself up with an expectation to complete the next unit for your next mentor meeting. End your mentor meetings with discussing "what should you do until next session", and preferably keep it to something so small that you feel pumped and you most definitely will complete it. If you do more, then that's awesome!
 >4. Code/work on your project often, but also define coding to be something very easy. If it's super lightly defined, it's easier to succeed and keep your spirits up. For example, I have set the bar at "doing one review and practice unit in the Codecademy Go app" as my lower limit for coding each day. Similarly, trying to set an every day meditation habit, I've set succeeding to "opening the meditation app while in a calm setting". Often I do more, but if I can't manage more, at least it's easy not to break my streak!
 
 ---
