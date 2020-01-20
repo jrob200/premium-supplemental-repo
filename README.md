@@ -15,9 +15,9 @@ Happy coding and happy learning!  Let's do this.
 ### General Advice
 
 * [00 - Introduction](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/00-introduction.md)
-* [01 - How to Get the Most out of Premium](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/01_tips_for_premium.md)
-* [02 - The Coding Journey Ahead of You](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/02_the_coding_journey.md)
-* [03 - Becoming a Good Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/03_becoming_a_good_programmer.md)
+* [01 - How to Get the Most out of Premium](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/01-get-the-most-from-premium.md)
+* [02 - The Coding Journey Ahead of You](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/02-the-coding-journey.md)
+* [03 - Becoming a Good Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/03-becoming-a-good-programmer.md)
 * More units to come!
 
 
