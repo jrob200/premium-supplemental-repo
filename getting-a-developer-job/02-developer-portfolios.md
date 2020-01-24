@@ -14,7 +14,7 @@ A development portfolio showcases notable projects a developer has built or cont
 Resumes are a ubiquitous part of every professional field, and you’ve probably made one before. They’re good at describing your skills and experiences along two dimensions—what you’ve done and how long you’ve done it for. On the other hand, a portfolio website can represent you and your capabilities as a vivid, three-dimensional portrait.
 
 You can describe the inspiration for a project, the process of building something collaboratively, unexpected challenges, or anything else that seems relevant. Just remember: recruiters are busy people, so just because you *can* include some information doesn’t mean you *should*.
-* **Article:** [What are companies looking for in a web developer’s portfolio?](https://austincodingacademy.com/blog/web-development/what-are-companies-looking-for-in-a-web-developers-portfolio/)
+* **Article:** [What are companies looking for in a web developer’s portfolio?](https://webcache.googleusercontent.com/search?q=cache:OOJ9z9TkZxMJ:https://austincodingacademy.com/blog/web-development/what-are-companies-looking-for-in-a-web-developers-portfolio/+&cd=1&hl=en&ct=clnk&gl=us)
 
 ## What should go in my portfolio?
 Before you start thinking about the sorts of projects you might want to build and include in your portfolio, heed this advice: when in doubt, just start coding. 
