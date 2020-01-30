@@ -31,7 +31,7 @@ The articles below will help you make sure you’re forming the right ones.
 
 ## Be judicious with what you code
 
-A common aphorism with development work is that the best programming work you can do is avoiding writing code.  That may sound weird, but bear with us. To illustrate this, consider the 10x rule of software development: that idea you spent 2 hours white-boarding can easily take 20+ hours to design and 200+ to code. This rule of thumb applies whether you can or can't design or code yourself.
+A common aphorism with development work is that the best programming work you can do is in _avoiding_ writing code.  That may sound weird, but bear with us. To illustrate this, consider the 10x rule of software development: that idea you spent 2 hours white-boarding can easily take 20+ hours to design and 200+ to code. This rule of thumb applies whether you can or can't design or code yourself.
 
 ![coding something takes 10x longer than designing it which takes 10x longer than fleshing out the idea](https://i.imgur.com/guDkOgK.jpg "The Turtle.ai 10x Rule of Code")
 
