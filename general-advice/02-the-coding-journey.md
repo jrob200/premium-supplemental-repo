@@ -35,8 +35,7 @@ A common aphorism with development work is that the best programming work you ca
 
 ![coding something takes 10x longer than designing it which takes 10x longer than fleshing out the idea](https://i.imgur.com/guDkOgK.jpg "The Turtle.ai 10x Rule of Code")
 
-Making good decisions about what to code, when, and how distinguishes more senior developers from more junior ones. These decisions save time, effort, and thus money. Don't just jump in to coding a solution or feature, think deeply about how, why, and if there's potentially a more efficient alternative.  For more on this mindset, see our sections on how developer teams are organized and work, particularly agile principles.
-
+Making good decisions about what to code, when, and how, is part of what distinguishes more senior developers from more junior ones. These decisions and thought processes ultimately save time, effort, and thus money. Don't just jump in to coding a solution or feature, think deeply about the methodology and reasons behind it, and if there's potentially a more efficient alternative.  For more on this mindset, see our sections on how developer teams are organized and work, particularly agile principles.
 
 ## In conclusion
 You’re still near the beginning of a long and rewarding path. This is the time to be excited about the possibilities that lie ahead, and to start thinking through some of the challenges you can expect to face. 
