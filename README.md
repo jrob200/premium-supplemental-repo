@@ -18,6 +18,7 @@ Happy coding and happy learning!  Let's do this.
 * [01 - How to Get the Most out of Premium](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/01-get-the-most-from-premium.md)
 * [02 - The Coding Journey Ahead of You](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/02-the-coding-journey.md)
 * [03 - Becoming a Good Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/03-becoming-a-good-programmer.md)
+* [04 – Thinking Like a Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/04-thinking-like-a-programmer.md)
 * More units to come!
 
 
@@ -27,6 +28,7 @@ Happy coding and happy learning!  Let's do this.
 * [02 - Advice from a Fellow Founder](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/entrepreneurship/02-advice-from-a-fellow-founder.md)
 * [03 - Preparing to Make Your MVP](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/entrepreneurship/03-preparing-to-make-your-mvp.md)
 * [04 - Validating Your Idea](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/entrepreneurship/04-validating-your-idea.md)
+* [05 – Before You Start Coding](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/entrepreneurship/05-before-you-start-coding.md)
 * More units to come!
 
 ### Getting a Developer Job
