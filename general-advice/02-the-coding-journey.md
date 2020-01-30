@@ -29,7 +29,16 @@ The articles below will help you make sure you’re forming the right ones.
 * **Article:** [10 Habits of Highly Successful Software Developers](https://blog.newrelic.com/culture/successful-software-developers-habits/)
 * **Article:** [The DRY Principle: Benefits and Costs with Examples](https://thevaluable.dev/dry-principle-cost-benefit-example/)
 
+## Be judicious with what you code
+
+A common aphorism with development work is that the best programming work you can do is avoiding writing code.  That may sound weird, but bear with us. To illustrate this, consider the 10x rule of software development: that idea you spent 2 hours white-boarding can easily take 20+ hours to design and 200+ to code. This rule of thumb applies whether you can or can't design or code yourself.
+
+![coding something takes 10x longer than designing it which takes 10x longer than fleshing out the idea](https://i.imgur.com/guDkOgK.jpg "The Turtle.ai 10x Rule of Code")
+
+Making good decisions about what to code, when, and how distinguishes more senior developers from more junior ones. These decisions save time, effort, and thus money. Don't just jump in to coding a solution or feature, think deeply about how, why, and if there's potentially a more efficient alternative.  For more on this mindset, see our sections on how developer teams are organized and work, particularly agile principles.
+
+
 ## In conclusion
 You’re still near the beginning of a long and rewarding path. This is the time to be excited about the possibilities that lie ahead, and to start thinking through some of the challenges you can expect to face. 
 
-With a clear understanding of your motivation for starting this process, good coding habits, and a willingness to face adversity head on, you’ll end up exactly where you want to be. 
+With a clear understanding of your motivation for starting this process, good coding habits, and a willingness to face adversity head on, you’ll end up exactly where you want to be.
