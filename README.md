@@ -35,6 +35,7 @@ Happy coding and happy learning!  Let's do this.
 * [00 - Introduction](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/getting-a-developer-job/00-introduction.md)
 * [01 - Getting a New Tech Job: Overview](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/getting-a-developer-job/01-getting-a-new-tech-job-overview.md)
 * [02 - Developer Portfolios](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/getting-a-developer-job/02-developer-portfolios.md)
+* [03 - Picking a Coding Project](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/getting-a-developer-job/03-picking-a-coding-project.md)
 * [xx - Your First Job as a Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/getting-a-developer-job/xx-your-first-job-as-a-programmer.md)
 * More units to come!
 
