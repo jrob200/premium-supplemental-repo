@@ -6,6 +6,7 @@ This mindset is comprised of two major concepts - algorithmic thinking and perse
 ## Algorithmic Thinking
 Though algorithmic thinking is defined in different ways by different programmers, there are several core components of this mindset that appear in almost every definition. The generally accepted steps of algorithmic thinking are well laid out by Reddit user `sir_eeps` in [this thread](https://www.reddit.com/r/webdev/comments/4svm5v/how_can_i_begin_to_think_like_a_programmer/).  
  
+```
 Take a bigger idea / problem concept
 Break it down into smaller bits
 Then smaller bits
@@ -18,11 +19,9 @@ Then figure out what you need to do/know to solve that small bit
 If you don't know it - learn it
 Solve that bit
 Then build it up to the next bit
-Rinse
-Repeat
-Until you solved the initial problem
- 
- 
+Rinse & repeat until you solved the initial problem
+```
+
 In short, algorithmic thinking involves breaking problems down to their most basic steps and addressing each small step in order to build back up to the initial problem, as opposed to taking a broad view to the entire problem. For further examples, take a look at the similarities in these three other descriptions of algorithmic thinking. 
  
 * **Video:** [How to Think Like a Programmer](https://www.youtube.com/watch?v=rWMuEIcdJP4)
