@@ -1,4 +1,4 @@
-# Getting Help With Your Code - Part Two
+# Getting Unstuck With Your Code - Part Two
 Welcome back to Getting Help! If you haven’t yet, please review Part One of this section, as it relays essential information about the first two steps to getting help - understanding your problem, and framing it correctly. In this section, we will address the next two parts - asking your question to the world at large, and giving back by helping to answer others’ questions. 
  
 Let’s dive right in. 
