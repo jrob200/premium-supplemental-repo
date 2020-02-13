@@ -1,4 +1,4 @@
-# Getting Unstuck With Your Code
+# Getting Unstuck With Your Code - Part One
 
 Whether you are stuck on a problem that you cannot yet solve in your coding lessons or are a working programmer who encounters a code roadblock as part of your job, you’re likely going to regularly need to try to get unstuck, and indeed ask for help.
  
