@@ -19,6 +19,8 @@ Happy coding and happy learning!  Let's do this.
 * [02 - The Coding Journey Ahead of You](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/02-the-coding-journey.md)
 * [03 - Becoming a Good Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/03-becoming-a-good-programmer.md)
 * [04 – Thinking Like a Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/04-thinking-like-a-programmer.md)
+* [05 - Getting Unstuck With Your Code - Part One](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/05-getting-unstuck-part-one.md)
+* [06 - Getting Unstuck With Your Code - Part Two](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/06-getting-unstuck-part-two.md)
 * More units to come!
 
 
