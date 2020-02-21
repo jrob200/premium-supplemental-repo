@@ -18,6 +18,8 @@ In case you’re not studying Python (or even if you are), this article does a p
 
 This article has several bits of helpful advice that many intermediate programmers have followed. Note this one in particular: it’s a good idea to pick a topic that most closely relates to the type of work you would like to be doing and read as much as you can about it. Is it database design? E-commerce transactions? *Mastering one skill* will give you the confidence to master related skills as well. 
 
+[This post] (https://medium.com/@Charles_Stover/become-the-junior-developer-that-companies-want-to-hire-c539f4c236d8) is also chock-full of excellent advice even if it is aimed in particular at people wanting to become developers (and if that's you, you'll like the post even more).
+
 We’ll outline a few more general tips below:
 
 ## Teaching others
