@@ -8,7 +8,7 @@ Around 2014-2015, I decided to leave my job in management consulting to enter th
 
 First off, congratulations! I remember when I first started, I felt like the luckiest human alive because I had found something I was so passionate about that I was willing to take a significant risk and make major sacrifices and lifestyle changes. In my case, my startup had a social impact mission which directly influenced my commitment, but, regardless, there is a reason for the cliches that say a startup is a roller coaster and having a true understanding of why you are pursuing this path is key. My recommendation? Sit down and write out your “why.” Ask yourself “why are you doing this?” “Why do you believe this is a problem?” “Why do you think you are the one to solve this issue?” etc. Take the time to draft out that information because when you are experiencing a low or have a difficult business decision to make, it will help enormously to have clear answers to come back to for guidance. This may sound silly, after all, you want to get started and there is so much to do - fundraising, product building, customers, team, etc. but I can’t stress enough how taking the time to define what you believe in and stand for will guide you as you navigate this tricky but rewarding path.
 
-Focusing on the _why_ will also help you when you inevitably [pivot](https://www.inc.com/alan-spoon/what-pivot-really-means.html).  During my nearly five years of running my company, we underwent two major pivots and countless smaller ones. Having a sense of why will help you align on how you wish to pivot and what to.
+Focusing on the _why_ will also help you when you inevitably [pivot](https://www.inc.com/alan-spoon/what-pivot-really-means.html).  During my nearly five years of running my company, we underwent two major pivots and countless smaller ones. Having a sense of why will help you align on how you wish to pivot and what to.  For more info on "starting with why" see the reading list at the end of this article.
 
 ## Early Considerations
 
@@ -120,7 +120,7 @@ In my humble opinion, most business books are kinda repetitive, bloated with too
 * _The Messy Middle_ by Scott Belsky - [book](https://www.penguinrandomhouse.com/books/557330/the-messy-middle-by-scott-belsky/) and [38-minute lecture](https://www.youtube.com/watch?v=bN7E44j7Xl8)
 * _Venture Deals_ by Brad Feld & Jason Mendelson - [book](https://www.venturedeals.com/) and [40-minute lecture](https://www.youtube.com/watch?v=m_enByHGOak)
 * _Business Model Generation_ by Alexander Osterwalder & Yves Pigneur - [book](https://www.strategyzer.com/books/business-model-generation) and [50-minute lecture](https://www.youtube.com/watch?v=8GIbCg8NpBw)
-* _The Startup Checklist_ by 
+* _The Startup Checklist_ by David S. Rose - [book](https://www.google.com/books/edition/The_Startup_Checklist/AsoVDAAAQBAJ?hl=en&gbpv=1&printsec=frontcover) and [15-minute TED Talk](https://www.youtube.com/watch?v=lzDBrMisLm0).
 * Quick read on "[How quitting my corporate job for my startup dream f`*`cked my life up](https://medium.com/swlh/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318) which I found quite accurate, and don't worry it is net-positive but yeah you should be a little scared that's healthy.
 
 The remainder here get recommended so many times they're almost cliché:
