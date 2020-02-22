@@ -121,7 +121,7 @@ In my humble opinion, most business books are kinda repetitive, bloated with too
 * _Venture Deals_ by Brad Feld & Jason Mendelson - [book](https://www.venturedeals.com/) and [40-minute lecture](https://www.youtube.com/watch?v=m_enByHGOak).
 * _Business Model Generation_ by Alexander Osterwalder & Yves Pigneur - [book](https://www.strategyzer.com/books/business-model-generation) and [50-minute lecture](https://www.youtube.com/watch?v=8GIbCg8NpBw).
 * _The Startup Checklist_ by David S. Rose - [book](https://www.google.com/books/edition/The_Startup_Checklist/AsoVDAAAQBAJ?hl=en&gbpv=1&printsec=frontcover) and [15-minute TED Talk](https://www.youtube.com/watch?v=lzDBrMisLm0).
-* Quick read on "[How quitting my corporate job for my startup dream f`*`cked my life up](https://medium.com/swlh/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318) which I found quite accurate, and don't worry it is net-positive but yeah you should be a little scared that's healthy.
+* Quick read on "[How quitting my corporate job for my startup dream f`*`cked my life up](https://medium.com/swlh/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318)" which I found quite accurate, and don't worry it is net-positive but yeah you should be a little scared that's healthy.
 
 The remainder here get recommended so many times they're almost cliché:
 * _The Lean Startup_ by Eric Ries - [book](http://theleanstartup.com/book) and [hour-long Google Talk](https://youtu.be/fEvKo90qBns?t=22).
