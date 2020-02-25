@@ -47,4 +47,4 @@ All of these communities require membership for a reason - learning is about col
 
 ## To Be Continued
 
-In part three, we'll return with specific advice on how to get help within Premium!
+In part three, we'll return with specific advice on how to get help within Premium!  If you are already very comfortable with Slack, you can [skip right there](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/08-getting-unstuck-part-three.md).  If not, you should read our [tour of Slack](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/07-how-to-use-slack.md) first.
