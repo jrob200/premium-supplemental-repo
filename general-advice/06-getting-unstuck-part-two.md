@@ -1,5 +1,5 @@
 # Getting Unstuck With Your Code - Part Two
-Welcome back to Getting Help! If you haven’t yet, please review Part One of this section, as it relays essential information about the first two steps to getting help - understanding your problem, and framing it correctly. In this section, we will address the next two parts - asking your question to the world at large, and giving back by helping to answer others’ questions. 
+Welcome back to Getting Help! If you haven’t yet, please review [Part One](https://github.com/codecademy-coaches/premium-supplemental-repo/edit/master/general-advice/05-getting-unstuck-part-one.md) of this series on getting help, as it relays essential information about two crucial initial steps to getting help - understanding your problem, and framing it correctly. In this section, we will address the next two steps - how to ask good questions and give good answers.
  
 Let’s dive right in. 
  
@@ -44,3 +44,7 @@ Of course, as a member of Codecademy Premium you also have access to some dedica
 All of these communities require membership for a reason - learning is about collaboration, not just consumption. Many others will help you on your coding journey, and you may be pleasantly surprised to see how many people you can help, even as a beginner! Actively participating in student and developer communities will benefit you in so many wonderful ways apart from just the technical aspect of learning. You’ll get help, give help, build personal and professional relationships, and remind yourself of how exciting learning a new skill can be. 
 
 **When one teaches, two learn.**
+
+## To Be Continued
+
+In part three, we'll return with specific advice on how to get help within Premium!
