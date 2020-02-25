@@ -11,13 +11,13 @@ As you can see from the video, pair-programming involves two programmers working
 ## Why Do People Use Pair-Programming? 
 pair-programming is used to great effect in both educational and professional contexts. It is a useful teaching tool, a great onboarding tool, and an efficient way to plow through certain types of coding problems by applying two brains instead of one. 
 
-* **Article:** [What are the advantages of pair-programming?](https://stackify.com/pair-programming-advantages/)
+* **Article:** [What Are the Advantages of Pair-Programming?](https://stackify.com/pair-programming-advantages/)
 
-* **Article:** [pair-programming - why we do it](https://www.jamasoftware.com/blog/pair-programming-why-we-do-it/)
+* **Article:** [Pair-Programming - Why We Do It](https://www.jamasoftware.com/blog/pair-programming-why-we-do-it/)
 
 Both of these articles are from the point of view of companies or organizations who use pair-programming on the job. You can find a detailed guide to how developers look at pair-programming in the article below. 
 
-* **Article:** [The Ultimate Guide to pair-programming](https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784)
+* **Article:** [The Ultimate Guide to Pair-Programming](https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784)
 
 pair-programming is also used in educational contexts by coding students. Take a look at [this post](https://www.codefellows.org/blog/6-reasons-for-pair-programming/) and [this one](https://www.codementor.io/pair-programming) to learn about how pair-programming specifically benefits students.  
 
@@ -28,4 +28,4 @@ You can also watch two Codecademy employees pair-program [here](https://www.yout
 
 If reading about pair-programming is more your jam, you can read more about it [in this PDF from Hunter College’s CS program](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci136tutorials/pair_programming_tutorial.pdf) and [in this Atlassian developer blog](https://blog.developer.atlassian.com/try-pair-programming/).
 
-Once you’ve reviewed all of this material, talk to your mentor! They’re great help with figuring out when in your course of study you should try a pair-programming project and can pair-program with you first one-on-one to get you accustomed to the process. You can also reach out to other people in the Codecademy community in the #pair-programming channel. Have fun!
+Once you’ve reviewed all of this material, talk to your mentor! They’re great help with figuring out when in your course of study you should try a pair-programming project and can pair-program with you first one-on-one to get you accustomed to the process. You can also reach out to other people in the Codecademy community to pair up, particularly in the Premium Slack's #pair-programming channel. Have fun!
