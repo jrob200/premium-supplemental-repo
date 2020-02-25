@@ -21,6 +21,9 @@ Happy coding and happy learning!  Let's do this.
 * [04 – Thinking Like a Programmer](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/04-thinking-like-a-programmer.md)
 * [05 - Getting Unstuck With Your Code - Part One](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/05-getting-unstuck-part-one.md)
 * [06 - Getting Unstuck With Your Code - Part Two](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/06-getting-unstuck-part-two.md)
+* [07 - How to Use Slack](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/07-how-to-use-slack.md)
+* [08 - Getting Unstuck With Your Code - Part Three](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/08-getting-unstuck-part-three.md)
+* [09 - Going from Beginner to Intermediate](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/09-going-from-beginner-to-intermediate.md)
 * More units to come!
 
 
