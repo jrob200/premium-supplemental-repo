@@ -1,10 +1,31 @@
-## Pair Programming
+# Pair-Programming
+We’ve mentioned pair-programming as a learning tool in other parts of this repo, so you may be curious as to how it works in an learning environment and/or in professional programming environments. It’s useful to learn and experience, as the skills and collaborative dynamic used in pair-programming will come up when you’re working on developer teams or encounter a really tricky technical issue. 
 
-Pair programming is a useful thing to do while learning even if you don't do this at your eventual job (e.g. you want to be a solo freelancer).  It's more a specific dynamic for working together than a technical tool per se.  Many developer teams will occasionally use this skill in order to get past technical issues.
+## What is Pair-Programming? 
+pair-programming is an Agile technique in which two programmers work on a project at the same terminal at the same time. You can find more thorough explanations of how it works here: 
 
-* [What is pair programming?](https://youtu.be/ET3Q6zNK3Io)
-* [What are the advantages of pair programming](https://stackify.com/pair-programming-advantages/)
-* Pair programming tutorials - [download this PDF](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci136tutorials/pair_programming_tutorial.pdf), watch [this](https://educators.brainpop.com/video/pair-programming-tutorial-video/) for how to do it in a way that's best for learning, read [this](https://developer.atlassian.com/blog/2015/05/try-pair-programming/) to try it yourself, and [this](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389) as more of a guide.
-* If you're a beginner, watch two Codecademy employees pair program and follow along yourself [here](https://youtu.be/oG6x4PPJ0_w).  The course they cover will be relatively basic for some of you, but that's not a bad thing – you can just skim through to see how they do it.
+* **Video:** [What is pair-programming?](https://www.youtube.com/watch?v=ET3Q6zNK3Io&feature=youtu.be)
 
-If you're interested in doing some pair-programming, and you should be, talk to your mentor about it!  They'll know when and if you're ready to take this on.  Often they'll want to pair-program with you first in a one-on-one so that you can get used to it before you do so with another learner.
+As you can see from the video, pair-programming involves two programmers working in tandem, in specific roles of driver and navigator, to work more quickly and to share knowledge. There are many benefits to working this way, as you’ll see below. 
+
+## Why Do People Use Pair-Programming? 
+pair-programming is used to great effect in both educational and professional contexts. It is a useful teaching tool, a great onboarding tool, and an efficient way to plow through certain types of coding problems by applying two brains instead of one. 
+
+* **Article:** [What are the advantages of pair-programming?](https://stackify.com/pair-programming-advantages/)
+
+* **Article:** [pair-programming - why we do it](https://www.jamasoftware.com/blog/pair-programming-why-we-do-it/)
+
+Both of these articles are from the point of view of companies or organizations who use pair-programming on the job. You can find a detailed guide to how developers look at pair-programming in the article below. 
+
+* **Article:** [The Ultimate Guide to pair-programming](https://hackernoon.com/the-ultimate-guide-to-pair-programming-b606625bc784)
+
+pair-programming is also used in educational contexts by coding students. Take a look at [this post](https://www.codefellows.org/blog/6-reasons-for-pair-programming/) and [this one](https://www.codementor.io/pair-programming) to learn about how pair-programming specifically benefits students.  
+
+## How Can I Learn to Pair-Program?
+If pair-programming is something you’d like to try, we recommend starting with [this Brainpop tutorial video](https://educators.brainpop.com/video/pair-programming-tutorial-video/). It’s less than five minutes long and offers a good intro look at what we’ve talked about in this post.  
+
+You can also watch two Codecademy employees pair-program [here](https://www.youtube.com/watch?v=oG6x4PPJ0_w&feature=youtu.be). This video is a more detailed look at how the pair-programming process works and will show you how the driver and navigator work together over the course of an hour. 
+
+If reading about pair-programming is more your jam, you can read more about it [in this PDF from Hunter College’s CS program](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci136tutorials/pair_programming_tutorial.pdf) and [in this Atlassian developer blog](https://blog.developer.atlassian.com/try-pair-programming/).
+
+Once you’ve reviewed all of this material, talk to your mentor! They’re great help with figuring out when in your course of study you should try a pair-programming project and can pair-program with you first one-on-one to get you accustomed to the process. You can also reach out to other people in the Codecademy community in the #pair-programming channel. Have fun!
