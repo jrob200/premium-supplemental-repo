@@ -8,7 +8,7 @@ Let's start with **orientation**.  When you start Slack you'll see something lik
 
 <img src="https://i.imgur.com/JsfjfT5.png" alt="Slack orientation">
 
-The how-to guide here applies to any Slack workspace (which you can think of as a "room"), we have a separate post on how to get the most out of the Premium Slack space.
+The how-to guide here applies to any Slack workspace (which you can think of as a "room"), we have a [separate post](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/08-getting-unstuck-part-three.md) on how to get the most out of the Premium Slack space.
 
 ## The App
 
