@@ -1,5 +1,5 @@
 # Getting Unstuck With Your Code - Part Two
-Welcome back to Getting Help! If you haven’t yet, please review [Part One](https://github.com/codecademy-coaches/premium-supplemental-repo/edit/master/general-advice/05-getting-unstuck-part-one.md) of this series on getting help, as it relays essential information about two crucial initial steps to getting help - understanding your problem, and framing it correctly. In this section, we will address the next two steps - how to ask good questions and give good answers.
+Welcome back to Getting Help! If you haven’t yet, please review [Part One](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/05-getting-unstuck-part-one.md) of this series on getting help, as it relays essential information about two crucial initial steps to getting help - understanding your problem, and framing it correctly. In this section, we will address the next two steps - how to ask good questions and give good answers.
  
 Let’s dive right in. 
  
