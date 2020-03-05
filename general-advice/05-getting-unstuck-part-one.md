@@ -4,7 +4,7 @@ Whether you are stuck on a problem that you cannot yet solve in your coding less
  
 The first thing to remember is that *everyone* gets stuck and needs to look things up. Learning is an ongoing, lifelong process, and programming is not a finite skill that one learns and then knows forever. On the contrary, the sheer amount of information involved in programming means that even developers with thirty years’ experience will consult online resources and other developers every day. Do not be discouraged or put off by getting stuck. If anything, getting past these blocks helps you refine your problem-solving skills and persistence, which are both important parts of the [programmer mindset](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/04-thinking-like-a-programmer.md). Making mistakes is a part of learning! 
  
-The second thing to remember - and what we will tackle in this first post on getting unstuck - is that how you ask for help is as important as where you go or who you ask for help. Understanding your question and framing it in a clear way are both integral parts of finding the answer – not just 
+The second thing to remember - and what we will tackle in this first post on getting unstuck - is that how you ask for help is as important as where you go or who you ask for help. Understanding your question and framing it in a clear way are both integral parts of finding the answer – not just for getting help but in helping yourself.
  
 ## Understanding the question
 Before you ask for help, you should make your best efforts to understand where you went wrong and if the problem is something discrete and fixable by yourself. Resist the impulse that some learners have to hit a roadblock and immediately ask for help. Be persistent, and take another look at it to see if you can glean more information about what went wrong.
@@ -18,6 +18,10 @@ You can also review these two short pieces on common problems in your code:
 * **Article:** [A quick troubleshooting guide for beginners](https://www.reddit.com/r/learnprogramming/wiki/qtsgfb) 
  
 * **Article:** [5 Steps to Solving Coding Problems](https://medium.com/learn-love-code/stuck-on-a-coding-problem-here-are-5-steps-to-solve-it-8be04c4b4f19)
+
+Developer documentation should also be one of the first places you turn to for help.
+
+* **Video:** [How to Use Developer Documentation](https://youtu.be/s1PLS3SQHQ0)
 
 ### Isolating Problems
 
