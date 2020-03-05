@@ -30,7 +30,7 @@ We’ve had members of the Premium community make a virtual ant farm, a Star War
 Once you’ve built a few projects for your portfolio, it’s time to focus on building the actual website. For simplicity, we can break down your options into two categories. 
 
 “WYSIWYG” (*what you see is what you get*) editors allow you to build your portfolio website with an intuitive, drag-and-drop interface. They make the process of building your site quick and easy, but the limitations they place on customization can be frustrating, and the fully-featured versions will cost you a subscription fee.
-* **Popular WYSIWYG editors:* [Wix](wix.com), [Squarespace](squarespace.com), [Wordpress](wordpress.com)
+* **Popular WYSIWYG editors:** [Wix](wix.com), [Squarespace](squarespace.com), [Wordpress](wordpress.com)
 
 On the other hand, you can build your website from scratch. The process is naturally more complex and time-consuming, but doing so gives you yet another opportunity to showcase your skills. In other words, your portfolio website itself can be a testament to your skills. On top of that, you’ll be surprised by how many unexpected web development lessons you’ll learn while creating a real, working website.
 * **Video:** [Hosting & Showcasing Your Coding Skills](https://www.youtube.com/watch?v=64SkvEu0vNo)
