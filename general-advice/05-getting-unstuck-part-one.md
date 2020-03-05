@@ -39,7 +39,7 @@ We know it's frustrating when a whole lot of red text pops up telling you that y
 
 The error messages aren't a slap on the wrist from the computer, they're an outstretched helping hand for you to break through a deadlock.  Learn to love the color red!
 
-It's hard to find language or platform-agnostic resources on how to go about debugging, but though many of the below resources use examples in languages with which you may be less familiar (like .NET, JavaScript, or Python) but if you are comfortable with core programming principles like loops, you should be able to get the gist and extrapolate to your chosen language / stack.
+It's hard to find language or platform-agnostic resources on how to go about debugging, but though many of the below resources use examples in languages with which you may be less familiar (like .NET, JavaScript, or Python), if you are comfortable with core programming principles (like loops) you should be able to get the gist and extrapolate to your chosen language / stack.
 
 * **Article:** [Think About Errors in Your Code Differently](https://news.codecademy.com/errors-in-code-think-differently/)
 * **Article:** [What is Debugging? What is a Debugger?](https://docs.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=vs-2019)
