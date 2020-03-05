@@ -24,7 +24,7 @@ Happy coding and happy learning!  Let's do this.
 * [07 - How to Use Slack](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/07-how-to-use-slack.md)
 * [08 - Getting Unstuck With Your Code - Part Three](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/08-getting-unstuck-part-three.md)
 * [09 - Going from Beginner to Intermediate](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/09-going-from-beginner-to-intermediate.md)
-* [10 – Intro to Software Development Methodologies](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/10-intro-to-software-development-methodologies.md)
+* [10 - Intro to Software Development Methodologies](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/10-intro-to-software-development-methodologies.md)
 * More units to come!
 
 
