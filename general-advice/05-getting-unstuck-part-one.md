@@ -30,6 +30,27 @@ Another approach to asking good questions is to frame it as a Short, Self-Contai
 * **Article:** [How to prepare a SSCE](http://sscce.org/)
 
 As part of how Codecademy Premium works, your code is already likely to be in GitHub, which is designed to accommodate collaborative coding, but sending someone an entire repo to look at can be a bit much.  Slimming it down, perhaps into something that you can share on the likes of [Codepen](https://codepen.io/) or [Repl](https://repl.it/) will help you and your peers see the wood from the trees.
+
+### Code Errors and Debugging
+
+We know it's frustrating when a whole lot of red text pops up telling you that you're making mistakes, but don't take it to heart.  Good programmers don't avoid errors and bugs altogether, in fact they encounter far more errors as they get more experienced and tackle harder problems - errors mean you're trying something cool, and often something new for you, both of which are to be desired.  Check out this totally made up graph below:
+
+<img src="https://news.codecademy.com/content/images/2018/07/image3-1.png" alt="number of errors rises linearly with code complexity" width="500"/>
+
+The error messages aren't a slap on the wrist from the computer, they're an outstretched helping hand for you to break through a deadlock.  Learn to love the color red!
+
+It's hard to find language or platform-agnostic resources on how to go about debugging, but though many of the below resources use examples in languages with which you may be less familiar (like .NET, JavaScript, or Python) but if you are comfortable with core programming principles like loops, you should be able to get the gist and extrapolate to your chosen language / stack.
+
+* **Article:** [Think About Errors in Your Code Differently](https://news.codecademy.com/errors-in-code-think-differently/)
+* **Article:** [What is Debugging? What is a Debugger?](https://docs.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=vs-2019)
+* **Video:** [How to Debug Your Code](https://youtu.be/NTaNksV-DPY)
+* **Article:** [Beginner's Guide to Debugging](https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019)
+* **Article:** [Intro to Visual Studio Code Debugging Tools](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2019)
+* **Article:** [Debugging Techniques and Tools](https://docs.microsoft.com/en-us/visualstudio/debugger/write-better-code-with-visual-studio)
+* **Article:** [Finding Your Debugging Task](https://docs.microsoft.com/en-us/visualstudio/debugger/find-your-debugging-task)
+* **Tutorial:** [Debugging JavaScript Using Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript)
+* **Article:** [JavaScript Breakpoints in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints)
+
  
 ## Framing the question/how to ask for help
 Now that you have done your best to understand your own question, you are in a better position to ask it in a way that dramatically increases the quality of the answers you get! 
