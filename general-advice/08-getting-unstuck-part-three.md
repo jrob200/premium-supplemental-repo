@@ -34,7 +34,7 @@ An underrated thing to come out of pair-programming is simply in making a face-t
 
 ### Code Review
 
-You may be digging yourself into a hole and not even realize it, or you've missed a way that you can do something better.  Share your work for review, and pay it forward by giving a review too.  Reviewing code and handling code reviews are key skills for professional developers, who usually can't make a change to the code base without a peer review.  Share with your friends in the program, or just throw it in #online-now (be brave!).
+You may be digging yourself into a hole and not even realize it, or you've missed a way that you can do something better.  Share your work for review, and pay it forward by giving a review too.  Reviewing code and handling code reviews are key skills for professional developers, who usually can't make a change to the code base without a peer review.  Learn how to go about code reviews with [our guide](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/group-coding-how-to/code-review-guide.md) and when you're ready share your code with your friends in the program, or just throw it in #online-now (be brave!).
 
 ### Go Local
 
