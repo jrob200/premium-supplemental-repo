@@ -47,5 +47,6 @@ Happy coding and happy learning!  Let's do this.
 
 ### Group Coding: How-To
 This unit is not designed to be consumed in any particular order, but at leisure or as needed.
+* [Code Review Guide](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/group-coding-how-to/code-review-guide.md)
 * [Pair-Programming Guide](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/group-coding-how-to/pair-programming-guide.md)
 * More units to come!
