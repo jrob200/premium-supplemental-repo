@@ -12,6 +12,10 @@ Happy coding and happy learning!  Let's do this.
 
 ## Index
 
+### Coding Tools
+
+* [Customizing VS Code](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/coding-tools/customizing-vs-code.md)
+
 ### General Advice
 
 * [00 - Introduction](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/00-introduction.md)
