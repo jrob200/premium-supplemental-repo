@@ -1,7 +1,7 @@
 # Design for Developers
 Evolved humans know that in life, looks should not matter. What’s important is on the inside. Web and app developers know that when it comes to tech products and services, looks do matter. Good design of your website or app is the first step to drawing in users; bad or counterintuitive design can drive them away before they really give your project a chance. Since you’re already learning the substance - code - now might be a good time to learn a little bit about the form as well. 
  
-We’re not here to teach you how to be a designer when what you’re really trying to do is be a developer. However, it will be very beneficial to you to have an elementary grasp of basic design principles, a list of sources of design templates to start you off, and a little advice on how to best communicate with a designer should you end up working with one. 
+We’re not here to teach you how to be a designer when what you’re really trying to do is build your development skills. However, it will be very beneficial to you as a coder to have an elementary grasp of basic design principles, a list of sources of design templates to start you off, and a little advice on how to best communicate with a designer should you end up working with one. 
  
  
 ## Some basic principles of design 
