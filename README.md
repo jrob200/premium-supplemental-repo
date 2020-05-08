@@ -30,6 +30,7 @@ Happy coding and happy learning!  Let's do this.
 * [09 - Going from Beginner to Intermediate](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/09-going-from-beginner-to-intermediate.md)
 * [10 - Intro to Software Development Methodologies](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/10-intro-to-software-development-methodologies.md)
 * [11 – CS Degrees and You](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/coding-tools/customizing-vs-code.md)
+* [12 - Design for Developers](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/12-design-for-developers.md)
 * More units to come!
 
 
