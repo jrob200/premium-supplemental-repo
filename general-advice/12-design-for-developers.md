@@ -30,7 +30,8 @@ Tired of videos? No worries. Here is a clear, concise post on **developing a des
 ## Design templates 
 Yes, this is what you were looking for. A template! Now you know why this wasn’t the first section. I wanted you to learn a *little* about design first (all of those videos together are shorter than a movie so it’s totally doable). There are several sources of templates online, of varying styles, quality, and price. Here are a few to kick off your search:
  
-* [Webflow](https://webflow.com/free-website-templates). Bonus, it’s free! 
+* [Webflow](https://webflow.com/free-website-templates). Bonus, it’s free!
+* [Freebiesbug](https://freebiesbug.com/psd-freebies/website-template/). As the name suggests, free.
 * [Skillcrush](https://skillcrush.com/blog/free-portfolio-templates/). Pretty basic, but also free.
 * [3rd Wave Media](https://themes.3rdwavemedia.com/) UX-Centered themes and templates. 
 * [Colorlib](https://colorlib.com/wp/designer-website-templates/) Website design templates. 
