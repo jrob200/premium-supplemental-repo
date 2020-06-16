@@ -31,6 +31,8 @@ Happy coding and happy learning!  Let's do this.
 * [10 - Intro to Software Development Methodologies](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/10-intro-to-software-development-methodologies.md)
 * [11 – CS Degrees and You](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/coding-tools/customizing-vs-code.md)
 * [12 - Design for Developers](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/12-design-for-developers.md)
+* [13 – How Digital Teams Work](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/13-how-digital-teams-work.md)
+* [14 – What Makes Remote Work Different](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/general-advice/14-what-makes-remote-work-different.md)
 * More units to come!
 
 
